@@ -8,6 +8,6 @@ setup(
     author='Saket Agarwal',
     author_email='saket.a@cashify.in',
     license='unlicense',
-    packages=['cashify-python-db-secret'],
+    packages=['cashifypythondbsecret'],
     zip_safe=False
 )
