@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='cashify-python-db-secret',
+    name='cashifypythondbsecret',
     version='0.0.1',
     description='Get DB Secrets',
     url='git@github.com:saket-cashify/cashify-python-db-secret.git',
